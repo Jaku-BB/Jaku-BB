@@ -14,3 +14,4 @@ I'm a passionate computer science student based in Poland. Currently on a journe
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=React&logoColor=fff)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=Next.js&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=PostgreSQL&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=fff)
